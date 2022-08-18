@@ -1,0 +1,60 @@
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\appsettings.Development.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\appsettings.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.exe
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.deps.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.runtimeconfig.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.pdb
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.AssemblyReference.cache
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.AssemblyInfoInputs.cache
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.AssemblyInfo.cs
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.CoreCompileInputs.cache
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\scopedcss\bundle\RequestRatingLimitSample.styles.css
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.CopyComplete
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\refint\RequestRatingLimitSample.dll
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.pdb
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.genruntimeconfig.cache
+C:\Versuchslabor\WebAPI\RequestRatingLimitSample\obj\Debug\net6.0\ref\RequestRatingLimitSample.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\appsettings.Development.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\appsettings.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.exe
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.deps.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\RequestRatingLimitSample.pdb
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\scopedcss\bundle\RequestRatingLimitSample.styles.css
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.csproj.CopyComplete
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\refint\RequestRatingLimitSample.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.pdb
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\RequestRatingLimitSample.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\RequestRatingLimitSample\obj\Debug\net6.0\ref\RequestRatingLimitSample.dll

@@ -1,0 +1,679 @@
+2022-08-18 10:46:18.926 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 10:46:18.990 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 10:46:18.998 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 10:46:19.002 +02:00 [INF] Hosting environment: Development
+2022-08-18 10:46:19.006 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 10:46:19.782 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 10:46:20.252 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 470.9903ms
+2022-08-18 10:46:20.264 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 10:46:20.277 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.3873ms
+2022-08-18 10:46:20.280 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 10:46:20.320 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.5793ms
+2022-08-18 10:46:20.524 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 10:46:20.635 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 110.6659ms
+2022-08-18 10:46:44.895 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/WeatherForecast - -
+2022-08-18 10:46:44.914 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:44.931 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Overview_WEBAPI.WeatherForecast] Get() on controller Overview_WEBAPI.Controllers.WeatherForecastController (Overview_WEBAPI).
+2022-08-18 10:46:44.994 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 10:46:45.002 +02:00 [INF] GetWeatherForecast wurde aufgerufen. :-) 
+2022-08-18 10:46:45.010 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.9524ms.
+2022-08-18 10:46:45.019 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.WeatherForecast[]'.
+2022-08-18 10:46:45.037 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) in 93.6916ms
+2022-08-18 10:46:45.039 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:45.040 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/WeatherForecast - - - 200 - application/json;+charset=utf-8 144.9739ms
+2022-08-18 10:46:46.000 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/WeatherForecast - -
+2022-08-18 10:46:46.002 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:46.003 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Overview_WEBAPI.WeatherForecast] Get() on controller Overview_WEBAPI.Controllers.WeatherForecastController (Overview_WEBAPI).
+2022-08-18 10:46:46.017 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 10:46:46.019 +02:00 [INF] GetWeatherForecast wurde aufgerufen. :-) 
+2022-08-18 10:46:46.021 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.2628ms.
+2022-08-18 10:46:46.024 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.WeatherForecast[]'.
+2022-08-18 10:46:46.026 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) in 19.5271ms
+2022-08-18 10:46:46.027 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:46.028 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/WeatherForecast - - - 200 - application/json;+charset=utf-8 27.9592ms
+2022-08-18 10:46:47.024 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/WeatherForecast - -
+2022-08-18 10:46:47.025 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:47.026 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Overview_WEBAPI.WeatherForecast] Get() on controller Overview_WEBAPI.Controllers.WeatherForecastController (Overview_WEBAPI).
+2022-08-18 10:46:47.042 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 10:46:47.043 +02:00 [INF] GetWeatherForecast wurde aufgerufen. :-) 
+2022-08-18 10:46:47.044 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.8879ms.
+2022-08-18 10:46:47.046 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.WeatherForecast[]'.
+2022-08-18 10:46:47.047 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI) in 18.9987ms
+2022-08-18 10:46:47.048 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.WeatherForecastController.Get (Overview_WEBAPI)'
+2022-08-18 10:46:47.049 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/WeatherForecast - - - 200 - application/json;+charset=utf-8 25.2825ms
+2022-08-18 10:50:26.341 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 10:50:26.405 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 10:50:26.410 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 10:50:26.412 +02:00 [INF] Hosting environment: Development
+2022-08-18 10:50:26.413 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 10:50:27.153 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 10:50:27.551 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 10:50:27.553 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 10:50:27.560 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 415.5817ms
+2022-08-18 10:50:27.582 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 27.0121ms
+2022-08-18 10:50:27.600 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.7150ms
+2022-08-18 10:50:27.690 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 10:50:27.830 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.6160ms
+2022-08-18 11:05:10.515 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:05:10.557 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:05:10.560 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:05:10.561 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:05:10.561 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:05:11.718 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:05:12.393 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:05:12.417 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:05:12.426 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 715.1783ms
+2022-08-18 11:05:12.428 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 34.8429ms
+2022-08-18 11:05:12.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.7435ms
+2022-08-18 11:05:12.542 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:05:12.698 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.7219ms
+2022-08-18 11:05:34.207 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes - -
+2022-08-18 11:05:34.249 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI)'
+2022-08-18 11:05:34.263 +02:00 [INF] Route matched with {action = "HelloWorld", controller = "ReturnTypes"}. Executing controller action with signature System.String HelloWorld() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:05:34.324 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:05:34.335 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2014ms.
+2022-08-18 11:05:34.347 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-08-18 11:05:34.359 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI) in 83.9362ms
+2022-08-18 11:05:34.361 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI)'
+2022-08-18 11:05:34.362 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes - - - 200 - text/plain;+charset=utf-8 154.0908ms
+2022-08-18 11:08:34.305 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:08:34.472 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:08:34.482 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:08:34.484 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:08:34.486 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:08:36.582 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:08:39.314 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:08:39.333 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:08:39.498 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 179.4384ms
+2022-08-18 11:08:39.813 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 3291.3702ms
+2022-08-18 11:08:39.991 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 660.3769ms
+2022-08-18 11:08:40.154 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:08:40.229 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/ReturnTypes" for actions - Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI),Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-08-18 11:08:41.047 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 893.5590ms
+2022-08-18 11:09:10.084 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes - -
+2022-08-18 11:09:10.109 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI)
+Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-08-18 11:09:10.247 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes - - - 500 - text/html;+charset=utf-8 159.3702ms
+2022-08-18 11:09:10.248 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:09:10.247 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:09:10.260 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.3072ms
+2022-08-18 11:09:10.301 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.2661ms
+2022-08-18 11:09:10.359 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/favicon.ico - -
+2022-08-18 11:09:10.364 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/favicon.ico - - - 404 0 - 4.5393ms
+2022-08-18 11:10:36.726 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:10:37.106 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:10:37.155 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:10:37.175 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:10:37.253 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:10:39.293 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:10:41.339 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:10:41.339 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:10:41.577 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 2246.3216ms
+2022-08-18 11:10:41.581 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 241.3125ms
+2022-08-18 11:10:41.894 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 555.0000ms
+2022-08-18 11:10:42.296 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:10:42.866 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 569.2239ms
+2022-08-18 11:11:34.721 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/GetCurrentTime1 - -
+2022-08-18 11:11:34.749 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI)'
+2022-08-18 11:11:34.768 +02:00 [INF] Route matched with {action = "GetCurrentTime", controller = "ReturnTypes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ContentResult GetCurrentTime() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:11:34.887 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:11:34.913 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ContentResult in 7.7188ms.
+2022-08-18 11:11:34.922 +02:00 [INF] Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+2022-08-18 11:11:34.957 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI) in 174.9504ms
+2022-08-18 11:11:34.960 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime (Overview_WEBAPI)'
+2022-08-18 11:11:34.962 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/GetCurrentTime1 - - - 200 19 text/plain;+charset=utf-8 240.4035ms
+2022-08-18 11:12:11.444 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes/GetCurrentTime2 - -
+2022-08-18 11:12:11.489 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime2 (Overview_WEBAPI)'
+2022-08-18 11:12:11.494 +02:00 [INF] Route matched with {action = "GetCurrentTime2", controller = "ReturnTypes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ContentResult GetCurrentTime2() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:12:11.523 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime2 (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:12:11.526 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime2 (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ContentResult in 0.3653ms.
+2022-08-18 11:12:11.529 +02:00 [INF] Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+2022-08-18 11:12:11.531 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime2 (Overview_WEBAPI) in 32.5731ms
+2022-08-18 11:12:11.544 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetCurrentTime2 (Overview_WEBAPI)'
+2022-08-18 11:12:11.546 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes/GetCurrentTime2 - - - 200 19 text/plain;+charset=utf-8 102.0055ms
+2022-08-18 11:12:39.214 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes - -
+2022-08-18 11:12:39.217 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI)'
+2022-08-18 11:12:39.223 +02:00 [INF] Route matched with {action = "HelloWorld", controller = "ReturnTypes"}. Executing controller action with signature System.String HelloWorld() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:12:39.248 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:12:39.251 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2986ms.
+2022-08-18 11:12:39.269 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-08-18 11:12:39.273 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI) in 46.3066ms
+2022-08-18 11:12:39.282 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.HelloWorld (Overview_WEBAPI)'
+2022-08-18 11:12:39.285 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes - - - 200 - text/plain;+charset=utf-8 71.7170ms
+2022-08-18 11:12:54.395 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:12:54.456 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 60.8854ms
+2022-08-18 11:12:54.508 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:12:54.508 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:12:54.535 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 27.3212ms
+2022-08-18 11:12:54.550 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.9758ms
+2022-08-18 11:12:54.864 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:12:54.874 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.4996ms
+2022-08-18 11:15:21.589 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:15:21.898 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:15:21.948 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:15:21.956 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:15:21.960 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:15:24.178 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:15:26.408 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:15:26.408 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:15:26.542 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 124.8635ms
+2022-08-18 11:15:26.542 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 2404.1648ms
+2022-08-18 11:15:26.662 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 254.4337ms
+2022-08-18 11:15:26.964 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:15:27.533 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 568.9124ms
+2022-08-18 11:15:33.111 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes/GetComplexObject - -
+2022-08-18 11:15:33.149 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetComplexCar (Overview_WEBAPI)'
+2022-08-18 11:15:33.180 +02:00 [INF] Route matched with {action = "GetComplexCar", controller = "ReturnTypes"}. Executing controller action with signature Overview_WEBAPI.Models.Car GetComplexCar() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:15:33.306 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.GetComplexCar (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:15:33.332 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.GetComplexCar (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.9289ms.
+2022-08-18 11:15:33.354 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.Models.Car'.
+2022-08-18 11:15:33.387 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.GetComplexCar (Overview_WEBAPI) in 188.7407ms
+2022-08-18 11:15:33.391 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetComplexCar (Overview_WEBAPI)'
+2022-08-18 11:15:33.393 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes/GetComplexObject - - - 200 - application/json;+charset=utf-8 282.1957ms
+2022-08-18 11:17:03.599 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:17:03.660 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:17:03.664 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:17:03.665 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:17:03.667 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:17:05.895 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:17:08.953 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:17:08.953 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:17:09.099 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 126.5155ms
+2022-08-18 11:17:09.225 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 3380.4709ms
+2022-08-18 11:17:09.330 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 377.4205ms
+2022-08-18 11:17:09.616 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:17:09.754 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-08-18 11:17:10.015 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 398.7008ms
+2022-08-18 11:17:49.927 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/ReturnTypes - -
+2022-08-18 11:17:49.959 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI)'
+2022-08-18 11:17:49.973 +02:00 [INF] Route matched with {action = "GetHelloWorld", controller = "ReturnTypes"}. Executing controller action with signature System.String GetHelloWorld() on controller Overview_WEBAPI.Controllers.ReturnTypesController (Overview_WEBAPI).
+2022-08-18 11:17:50.039 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 11:17:50.051 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2023ms.
+2022-08-18 11:17:50.060 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-08-18 11:17:50.071 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI) in 85.4917ms
+2022-08-18 11:17:50.072 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.ReturnTypesController.GetHelloWorld (Overview_WEBAPI)'
+2022-08-18 11:17:50.073 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/ReturnTypes - - - 200 - text/plain;+charset=utf-8 146.6624ms
+2022-08-18 11:18:15.563 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 11:18:15.625 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 11:18:15.629 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 11:18:15.630 +02:00 [INF] Hosting environment: Development
+2022-08-18 11:18:15.630 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 11:18:16.380 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 11:18:16.840 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 463.7436ms
+2022-08-18 11:18:16.842 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 11:18:16.842 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 11:18:16.859 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 16.7725ms
+2022-08-18 11:18:16.889 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.7801ms
+2022-08-18 11:18:17.080 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 11:18:17.456 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 375.7736ms
+2022-08-18 13:11:09.725 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:11:09.886 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:13:39.297 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:13:39.452 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:13:39.469 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:14:15.830 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:14:15.975 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:14:18.260 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:14:19.141 +02:00 [INF] Executed DbCommand (740ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [Overview_WEBAPI.Data];
+2022-08-18 13:14:19.740 +02:00 [INF] Executed DbCommand (523ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Overview_WEBAPI.Data] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2022-08-18 13:14:20.170 +02:00 [INF] Executed DbCommand (42ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-08-18 13:14:21.298 +02:00 [INF] Executed DbCommand (40ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2022-08-18 13:14:21.380 +02:00 [INF] Executed DbCommand (69ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-08-18 13:14:21.869 +02:00 [INF] Executed DbCommand (376ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-08-18 13:14:22.002 +02:00 [INF] Executed DbCommand (67ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-08-18 13:14:22.169 +02:00 [INF] Applying migration '20220818111339_FirstVersion'.
+2022-08-18 13:14:22.321 +02:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Movie] (
+    [Id] int NOT NULL IDENTITY,
+    [Title] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [MovieEnum] int NOT NULL,
+    CONSTRAINT [PK_Movie] PRIMARY KEY ([Id])
+);
+2022-08-18 13:14:22.331 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220818111339_FirstVersion', N'6.0.8');
+2022-08-18 13:15:48.752 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:15:49.552 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:15:49.816 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:15:49.834 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:15:49.900 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:15:52.619 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:15:56.919 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:15:56.919 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:15:57.073 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 149.6090ms
+2022-08-18 13:15:57.073 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 4517.6140ms
+2022-08-18 13:15:58.075 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1153.1090ms
+2022-08-18 13:15:58.406 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:16:00.072 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1665.4283ms
+2022-08-18 13:16:27.678 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/Movies - -
+2022-08-18 13:16:27.735 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:16:27.855 +02:00 [INF] Route matched with {action = "GetMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Overview_WEBAPI.Models.Movie]]] GetMovie() on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:16:31.172 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:16:36.121 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:16:38.470 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:16:47.178 +02:00 [INF] Executed DbCommand (242ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Description], [m].[MovieEnum], [m].[Price], [m].[Title]
+FROM [Movie] AS [m]
+2022-08-18 13:16:47.452 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 16219.8802ms.
+2022-08-18 13:16:47.500 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Overview_WEBAPI.Models.Movie, Overview_WEBAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-08-18 13:16:47.573 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) in 19684.8571ms
+2022-08-18 13:16:47.592 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:16:47.640 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/Movies - - - 200 - application/json;+charset=utf-8 19964.2791ms
+2022-08-18 13:17:44.424 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 118
+2022-08-18 13:17:44.438 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:17:44.462 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:17:44.526 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:17:44.544 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:17:44.956 +02:00 [INF] Executed DbCommand (62ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movie] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movie]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:17:45.042 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 513.9407ms.
+2022-08-18 13:17:45.044 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:17:45.091 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 626.3343ms
+2022-08-18 13:17:45.099 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:17:45.101 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 118 - 201 - application/json;+charset=utf-8 677.2035ms
+2022-08-18 13:21:30.797 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 136
+2022-08-18 13:21:30.814 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:21:30.818 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:21:30.840 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:21:30.925 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:21:30.935 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movie] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movie]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:21:30.943 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 100.7011ms.
+2022-08-18 13:21:30.944 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:21:30.946 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 124.4455ms
+2022-08-18 13:21:30.947 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:21:30.949 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 136 - 201 - application/json;+charset=utf-8 155.0532ms
+2022-08-18 13:26:26.719 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:26:26.860 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:26:27.096 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:26:27.390 +02:00 [INF] Executed DbCommand (248ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [MovieDatabase003];
+2022-08-18 13:26:27.454 +02:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [MovieDatabase003] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2022-08-18 13:26:27.469 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-08-18 13:26:27.563 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2022-08-18 13:26:27.564 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-08-18 13:26:27.583 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-08-18 13:26:27.589 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-08-18 13:26:27.602 +02:00 [INF] Applying migration '20220818111339_FirstVersion'.
+2022-08-18 13:26:27.624 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Movies] (
+    [Id] int NOT NULL IDENTITY,
+    [Title] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [MovieEnum] int NOT NULL,
+    CONSTRAINT [PK_Movie] PRIMARY KEY ([Id])
+);
+2022-08-18 13:26:27.626 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220818111339_FirstVersion', N'6.0.8');
+2022-08-18 13:27:46.325 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:27:46.902 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:27:46.967 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:27:46.977 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:27:47.040 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:27:49.872 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:27:56.506 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:27:57.342 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:27:57.705 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 354.1082ms
+2022-08-18 13:27:57.723 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 7917.3619ms
+2022-08-18 13:27:58.445 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1938.8853ms
+2022-08-18 13:27:58.924 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:28:01.537 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2612.8821ms
+2022-08-18 13:28:30.190 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 104
+2022-08-18 13:28:30.241 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:28:30.320 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:28:30.951 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:28:31.974 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:28:32.449 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:28:35.180 +02:00 [INF] Executed DbCommand (365ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:28:35.616 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 4637.7515ms.
+2022-08-18 13:28:35.650 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:28:35.822 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 5469.2866ms
+2022-08-18 13:28:35.829 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:28:35.874 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 104 - 201 - application/json;+charset=utf-8 5683.4207ms
+2022-08-18 13:29:04.769 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 124
+2022-08-18 13:29:04.828 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:29:04.832 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:29:04.866 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:29:04.991 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:29:05.014 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:29:05.024 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 153.628ms.
+2022-08-18 13:29:05.027 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:29:05.030 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 192.7876ms
+2022-08-18 13:29:05.033 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:29:05.044 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 124 - 201 - application/json;+charset=utf-8 275.5670ms
+2022-08-18 13:29:26.826 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/Movies/2 - -
+2022-08-18 13:29:26.838 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:29:26.848 +02:00 [INF] Route matched with {action = "GetMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] GetMovie(Int32) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:29:26.866 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:29:26.884 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:29:27.848 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [m].[Id], [m].[Description], [m].[MovieEnum], [m].[Price], [m].[Title]
+FROM [Movies] AS [m]
+WHERE [m].[Id] = @__p_0
+2022-08-18 13:29:27.879 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1011.4778ms.
+2022-08-18 13:29:27.883 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:29:27.884 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) in 1033.4575ms
+2022-08-18 13:29:27.891 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:29:27.892 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/Movies/2 - - - 200 - application/json;+charset=utf-8 1066.2883ms
+2022-08-18 13:29:36.109 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/Movies/3 - -
+2022-08-18 13:29:36.111 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:29:36.112 +02:00 [INF] Route matched with {action = "GetMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] GetMovie(Int32) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:29:36.131 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:29:36.135 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:29:36.149 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [m].[Id], [m].[Description], [m].[MovieEnum], [m].[Price], [m].[Title]
+FROM [Movies] AS [m]
+WHERE [m].[Id] = @__p_0
+2022-08-18 13:29:36.161 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.NotFoundResult in 28.0534ms.
+2022-08-18 13:29:36.165 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-08-18 13:29:36.168 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) in 52.4449ms
+2022-08-18 13:29:36.181 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:29:36.203 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/Movies/3 - - - 404 - application/problem+json;+charset=utf-8 93.6470ms
+2022-08-18 13:38:28.013 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7194/api/Movies/2 application/json 105
+2022-08-18 13:38:28.030 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PutMovie (Overview_WEBAPI)'
+2022-08-18 13:38:28.040 +02:00 [INF] Route matched with {action = "PutMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PutMovie(Int32, Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:38:28.056 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PutMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:38:28.062 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:38:28.128 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Movies] SET [Description] = @p0, [MovieEnum] = @p1, [Price] = @p2, [Title] = @p3
+WHERE [Id] = @p4;
+SELECT @@ROWCOUNT;
+2022-08-18 13:38:28.137 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PutMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.NoContentResult in 79.6372ms.
+2022-08-18 13:38:28.143 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2022-08-18 13:38:28.143 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PutMovie (Overview_WEBAPI) in 101.8844ms
+2022-08-18 13:38:28.144 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PutMovie (Overview_WEBAPI)'
+2022-08-18 13:38:28.145 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7194/api/Movies/2 application/json 105 - 204 - - 131.9944ms
+2022-08-18 13:38:40.428 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/api/Movies/2 - -
+2022-08-18 13:38:40.432 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:38:40.434 +02:00 [INF] Route matched with {action = "GetMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] GetMovie(Int32) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:38:40.450 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:38:40.452 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:38:40.459 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [m].[Id], [m].[Description], [m].[MovieEnum], [m].[Price], [m].[Title]
+FROM [Movies] AS [m]
+WHERE [m].[Id] = @__p_0
+2022-08-18 13:38:40.462 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 9.6909ms.
+2022-08-18 13:38:40.463 +02:00 [INF] Executing ObjectResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:38:40.465 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI) in 27.641ms
+2022-08-18 13:38:40.467 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.GetMovie (Overview_WEBAPI)'
+2022-08-18 13:38:40.468 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/api/Movies/2 - - - 200 - application/json;+charset=utf-8 41.1191ms
+2022-08-18 13:42:31.156 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:42:31.466 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:42:31.486 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:42:31.494 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:42:31.499 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:42:35.033 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:42:38.263 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:42:38.259 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:42:38.467 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 3469.0927ms
+2022-08-18 13:42:38.636 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 377.0423ms
+2022-08-18 13:42:38.701 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 438.2331ms
+2022-08-18 13:42:39.059 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:42:39.712 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 654.5743ms
+2022-08-18 13:43:56.565 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 289
+2022-08-18 13:43:56.611 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:43:56.691 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:43:57.112 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:43:57.151 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 431.3402ms
+2022-08-18 13:43:57.167 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:43:57.177 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 289 - 400 - application/problem+json;+charset=utf-8 614.3908ms
+2022-08-18 13:44:08.723 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 289
+2022-08-18 13:44:08.737 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:08.742 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:44:08.805 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:44:08.813 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 58.6641ms
+2022-08-18 13:44:08.820 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:08.824 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 289 - 400 - application/problem+json;+charset=utf-8 104.4737ms
+2022-08-18 13:44:19.561 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 287
+2022-08-18 13:44:19.562 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:19.563 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:44:19.577 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:44:19.579 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 12.8141ms
+2022-08-18 13:44:19.580 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:19.582 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 287 - 400 - application/problem+json;+charset=utf-8 21.4454ms
+2022-08-18 13:44:21.175 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 287
+2022-08-18 13:44:21.178 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:21.180 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:44:21.184 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:44:21.185 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 2.4172ms
+2022-08-18 13:44:21.187 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:44:21.189 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 287 - 400 - application/problem+json;+charset=utf-8 13.3240ms
+2022-08-18 13:44:45.819 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:44:46.613 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:44:46.677 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:44:46.687 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:44:46.695 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:44:49.301 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:44:53.068 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:44:53.071 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:44:53.159 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 3905.3153ms
+2022-08-18 13:44:53.239 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 171.2222ms
+2022-08-18 13:44:53.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 619.8534ms
+2022-08-18 13:44:54.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:44:55.653 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1524.5677ms
+2022-08-18 13:45:24.186 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 180
+2022-08-18 13:45:24.288 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:45:24.592 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:45:25.921 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:45:25.978 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 1343.4701ms
+2022-08-18 13:45:26.025 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:45:26.061 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 180 - 400 - application/problem+json;+charset=utf-8 1874.7060ms
+2022-08-18 13:46:54.354 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:46:54.716 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:46:55.004 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:46:55.039 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:46:55.074 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:46:57.545 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:47:01.888 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:47:01.888 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:47:02.101 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 4600.1992ms
+2022-08-18 13:47:02.104 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 215.3863ms
+2022-08-18 13:47:02.401 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 512.9294ms
+2022-08-18 13:47:02.763 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:47:03.528 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 764.3544ms
+2022-08-18 13:48:04.203 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 168
+2022-08-18 13:48:04.244 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:48:04.345 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:48:04.875 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:48:04.895 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 531.1112ms
+2022-08-18 13:48:04.903 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:48:04.908 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 168 - 400 - application/problem+json;+charset=utf-8 711.0373ms
+2022-08-18 13:48:43.882 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:48:44.925 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:48:45.039 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:48:45.166 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:48:45.177 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:48:47.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:48:51.803 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:48:51.803 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:48:51.884 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 66.4840ms
+2022-08-18 13:48:51.939 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 4352.5251ms
+2022-08-18 13:48:52.958 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1155.3569ms
+2022-08-18 13:48:53.202 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:48:54.759 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1557.0758ms
+2022-08-18 13:50:21.180 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 0
+2022-08-18 13:50:21.242 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:21.344 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:50:21.979 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:50:22.019 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 643.0821ms
+2022-08-18 13:50:22.035 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:22.051 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 0 - 400 - application/problem+json;+charset=utf-8 871.2899ms
+2022-08-18 13:50:36.023 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 95
+2022-08-18 13:50:36.029 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:36.037 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:50:36.097 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:50:36.101 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 57.9532ms
+2022-08-18 13:50:36.102 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:36.103 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 95 - 400 - application/problem+json;+charset=utf-8 80.4107ms
+2022-08-18 13:50:41.366 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 85
+2022-08-18 13:50:41.367 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:41.368 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:50:41.374 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-08-18 13:50:41.376 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 5.0783ms
+2022-08-18 13:50:41.377 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:41.385 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 85 - 400 - application/problem+json;+charset=utf-8 19.0079ms
+2022-08-18 13:50:46.387 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies application/json 83
+2022-08-18 13:50:46.391 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:46.394 +02:00 [INF] Route matched with {action = "PostMovie", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Overview_WEBAPI.Models.Movie]] PostMovie(Overview_WEBAPI.Models.Movie) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:50:46.668 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:50:48.535 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:50:49.191 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:50:59.335 +02:00 [INF] Executed DbCommand (253ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:50:59.782 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 13089.2533ms.
+2022-08-18 13:50:59.795 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'Overview_WEBAPI.Models.Movie'.
+2022-08-18 13:50:59.902 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI) in 13497.0129ms
+2022-08-18 13:50:59.929 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovie (Overview_WEBAPI)'
+2022-08-18 13:50:59.950 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies application/json 83 - 201 - application/json;+charset=utf-8 13563.2654ms
+2022-08-18 13:54:21.059 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:54:21.492 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:54:21.515 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:54:21.522 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:54:21.527 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:54:23.177 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:54:26.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:54:26.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:54:26.130 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 53.7850ms
+2022-08-18 13:54:26.137 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 2997.5620ms
+2022-08-18 13:54:26.303 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 278.1340ms
+2022-08-18 13:54:26.709 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:54:27.891 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1181.8451ms
+2022-08-18 13:55:41.481 +02:00 [INF] Now listening on: https://localhost:7194
+2022-08-18 13:55:41.691 +02:00 [INF] Now listening on: http://localhost:5194
+2022-08-18 13:55:41.703 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-18 13:55:41.706 +02:00 [INF] Hosting environment: Development
+2022-08-18 13:55:41.708 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\Overview_WEBAPI\
+2022-08-18 13:55:44.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/index.html - -
+2022-08-18 13:55:47.437 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_vs/browserLink - -
+2022-08-18 13:55:47.438 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - -
+2022-08-18 13:55:47.486 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 42.4802ms
+2022-08-18 13:55:47.519 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/index.html - - - 200 - text/html;charset=utf-8 3056.8118ms
+2022-08-18 13:55:47.719 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 282.0252ms
+2022-08-18 13:55:48.142 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - -
+2022-08-18 13:55:48.796 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7194/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 653.5253ms
+2022-08-18 13:56:46.394 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies/POSTMultipleMoviesB application/json 184
+2022-08-18 13:56:46.426 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI)'
+2022-08-18 13:56:46.478 +02:00 [INF] Route matched with {action = "PostMovies", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] PostMovies(System.Collections.Generic.List`1[Overview_WEBAPI.Models.Movie]) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:56:46.840 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:56:47.545 +02:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Movie'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-08-18 13:56:47.799 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:56:50.392 +02:00 [INF] Executed DbCommand (365ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:56:50.626 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:56:50.841 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 3975.7327ms.
+2022-08-18 13:56:50.877 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2022-08-18 13:56:50.904 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI) in 4405.0067ms
+2022-08-18 13:56:50.911 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI)'
+2022-08-18 13:56:50.946 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies/POSTMultipleMoviesB application/json 184 - 200 0 - 4556.7200ms
+2022-08-18 13:58:22.348 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7194/api/Movies/POSTMultipleMovies application/json 118
+2022-08-18 13:58:22.370 +02:00 [INF] Executing endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI)'
+2022-08-18 13:58:22.374 +02:00 [INF] Route matched with {action = "PostMovies", controller = "Movies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] PostMovies(Overview_WEBAPI.DTOs.MoviesDTO) on controller Overview_WEBAPI.Controllers.MoviesController (Overview_WEBAPI).
+2022-08-18 13:58:22.390 +02:00 [INF] Executing action method Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI) - Validation state: "Valid"
+2022-08-18 13:58:34.340 +02:00 [INF] Entity Framework Core 6.0.8 initialized 'MovieDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
+2022-08-18 13:58:35.240 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Description], [MovieEnum], [Price], [Title])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-08-18 13:58:38.139 +02:00 [INF] Executed action method Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 15748.2476ms.
+2022-08-18 13:58:38.141 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2022-08-18 13:58:38.142 +02:00 [INF] Executed action Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI) in 15765.8309ms
+2022-08-18 13:58:38.143 +02:00 [INF] Executed endpoint 'Overview_WEBAPI.Controllers.MoviesController.PostMovies (Overview_WEBAPI)'
+2022-08-18 13:58:38.144 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7194/api/Movies/POSTMultipleMovies application/json 118 - 200 0 - 15798.5489ms

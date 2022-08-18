@@ -1,0 +1,40 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FormattersSampleWebAPI
+build_property.RootNamespace = FormattersSampleWebAPI
+build_property.ProjectDir = C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\FormattersSampleWebAPI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\FormattersSampleWebAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/FormattersSampleWebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KonventionenSamplesWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:KonventionenSamplesWebAPI.Controllers.MoviesController.PostMovie(KonventionenSamplesWebAPI.Models.Movie)">
+            <summary>
+            Beschreibung einer Methode
+            </summary>
+            <param name="movie">Beschreibung des Parameters</param>
+            <returns>Rückgabewert</returns>
+        </member>
+    </members>
+</doc>
