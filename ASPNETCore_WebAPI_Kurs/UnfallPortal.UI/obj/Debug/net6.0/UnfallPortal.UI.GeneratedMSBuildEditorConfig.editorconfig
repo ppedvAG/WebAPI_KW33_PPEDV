@@ -1,0 +1,144 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UnfallPortal.UI
+build_property.RootNamespace = UnfallPortal.UI
+build_property.ProjectDir = C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/ErsteHilfeKurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJzdGVIaWxmZUt1cnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/ErsteHilfeKurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJzdGVIaWxmZUt1cnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/ErsteHilfeKurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJzdGVIaWxmZUt1cnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/ErsteHilfeKurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJzdGVIaWxmZUt1cnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/ErsteHilfeKurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJzdGVIaWxmZUt1cnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantKurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudEt1cnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantKurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudEt1cnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantKurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudEt1cnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantKurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudEt1cnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantKurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudEt1cnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Mandants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Mandants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Mandants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Mandants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Mandants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfallDokumentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbERva3VtZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfallDokumentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbERva3VtZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfallDokumentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbERva3VtZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfallDokumentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbERva3VtZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfallDokumentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbERva3VtZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfalls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfalls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfalls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfalls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/MandantUnfalls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuZGFudFVuZmFsbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/WebAPI_KW33_PPEDV/ASPNETCore_WebAPI_Kurs/UnfallPortal.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zs5qvuctou

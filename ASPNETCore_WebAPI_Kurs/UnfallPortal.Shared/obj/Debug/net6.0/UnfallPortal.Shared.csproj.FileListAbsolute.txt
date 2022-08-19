@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\bin\Debug\net6.0\UnfallPortal.Shared.deps.json
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\bin\Debug\net6.0\UnfallPortal.Shared.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\bin\Debug\net6.0\UnfallPortal.Shared.pdb
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\refint\UnfallPortal.Shared.dll
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\UnfallPortal.Shared.pdb
+C:\Aktueller Kurs\WebAPI_KW33_PPEDV\ASPNETCore_WebAPI_Kurs\UnfallPortal.Shared\obj\Debug\net6.0\ref\UnfallPortal.Shared.dll

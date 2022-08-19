@@ -1,0 +1,36 @@
+﻿@model UnfallPortal.Shared.Entities.MandantUnfallDokumente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>MandantUnfallDokumente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MandantUnfall)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MandantUnfall.UnfallName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dateinamen)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dateinamen)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

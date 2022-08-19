@@ -7,7 +7,7 @@ Montag:
 - [x] Dependency Injections in WebAPI
 - [x] ServiceCollection + ServiceProvider in Console 
 - [x] Singleton / Scope / Transient  
-- [ ] Was ist ein RESTFul Service
+- [x] Was ist ein RESTFul Service
 - [x] Projektaufbau 
 - [x] ControllerBase in aspnetcore Sourcecode
 - [x] Return Values - Controller-Klasse
@@ -19,25 +19,28 @@ Montag:
 - [x] EF Core Anbindung 
 	- [x] InMeomoryProvider
 	- [x] SqlProvider kennengelernt -> Add-Migrations + Update-Database
-
-
-Dienstag:
-
-- [x] HttpClient (30 Minuten)
-	- [x] CRUD abgebildet ->MVC/WEbAPI Sample
-- [x HttpClient mit BearerToken -> SourceCode gewünscht
-
-- [x] Broadcast Videoübertragung via WebAPI
-- [x] Authentifizierung via Identity UI -> User Accounts
-
-- [ok] Minimal API -> wird erst in .NET 7 interessant
-
-- [x] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
 - [x] Logging in ASP.NET Core (Serilog-Beispiel)
-- [x] Paging u. weitere WebAPI Features -> Skip/Take für Paging / Sorting und Filtering
 
-- [ ] Customize Formatter (VCARD) - ShowCase -> Nur Einbinden ist interssant -> 
+
+Freitag:
+- [ ] HttpClient (30 Minuten)
+	- [ ] CRUD abgebildet ->MVC/WEbAPI Sample
+	- [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
+
+- [ ] Paging u. weitere WebAPI Features -> Skip/Take für Paging / Sorting und Filtering
+- [ ] HttpClient mit BearerToken (OAuth)-> SourceCode gewünscht
+- [ ] Authentifizierung via Identity UI -> User Accounts
+
+- [ ] Broadcast Videoübertragung via WebAPI
+
+
+- [ ] Minimal API -> wird erst in .NET 7 interessant
 - [ ] Architekturen -> Hateoas + DataShapping + OData 
+
+
+
+- [x] Customize Formatter (VCARD) - ShowCase -> Nur Einbinden ist interssant -> 
+
 
 Optionale Themen:
 - [x] Konfigurationen in ASP.NET Core 
